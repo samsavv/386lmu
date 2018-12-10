@@ -1,0 +1,8 @@
+Ani,Sox,30,9
+Bhekisisa,Sox,100,25
+Ciara,Lions,320,289
+Dora,Tigers,70,60
+Eimi,Tigers,100,29
+Francesca,Sox,300,50
+Galina,Lions,120,66
+Henrietta,Lions,80,70
